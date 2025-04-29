@@ -1,3 +1,4 @@
+//config/inngest.js
 import User from "@/models/User";
 import { Inngest } from "inngest";
 import connectDB from "./db";
